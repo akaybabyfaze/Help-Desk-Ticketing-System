@@ -4,7 +4,7 @@ The project is a walkthrough of IT Help Desk ticketing system. The ticketing sys
 <br />
 <h2>Environment Used </h2>
 <ul>
-  <li>Azure Virtual Machines</li>
+  <li>Microsoft Azure Virtual Machines</li>
   <li>Windows 10 Pro</li>
 </ul> 
 <h2>Technologies Used</h2>
