@@ -16,4 +16,5 @@ The project is a walkthrough of IT Help Desk ticketing system. The ticketing sys
 <h4><b>"OS TICKET INSTALLATION & CONFIGURATION"</b></h4>
 OS Ticket is a web application that runs on PHP & MYSQL. Application installation and configuration needs to be done properly without any vulnerability. Some critical installation and configuration steps have been highlighted below.
 <br/>
-<img src="https://i.imgur.com/fa0fNDm.jpg="50%" width="100%" alt="OS ticket configuration"/>
+<img src="https://i.imgur.com/fa0fNDm.jpg" height="50%" width="100%" alt="OS ticket configuration"/>
+<img src="https://i.imgur.com/yZtYUuG.png" height="50%" width="100%" alt="OS ticket configuration"/>
