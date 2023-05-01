@@ -22,6 +22,8 @@ OS Ticket is a web application that runs on PHP & MYSQL. Application installatio
 Correct <b>File Permission</b> during installation is important to avoid configuration error.
 <img src="https://i.imgur.com/D11Ilyv.png" height="40%" width="70%" alt="OS ticket file permission"/>
 <img src="https://i.imgur.com/uNV3VXu.png" height="40%" width="70%" alt="OS ticket file permission"/>
-<b>osTicket</b> roles administration, User Access and SLA creation.
+<b>osTicket</b> roles administration, Users Access and SLAs creation.
 <img src="https://i.imgur.com/ap8RH2h.png" height="40%" width="70%" alt="OS Ticket Role creation"/>
 <img src="https://i.imgur.com/L5Jx5dQ.png" height="40%" width="70%" alt="OS Ticket Role creation"/>
+<b>osTicket creation, flow and ticket closure</b>.
+<img src="https://i.imgur.com/ZdSLmRu.png" height="40%" width="70%" alt="OS Ticket open status"/>
