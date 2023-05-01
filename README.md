@@ -18,3 +18,4 @@ OS Ticket is a web application that runs on PHP & MYSQL. Application installatio
 <br/>
 <img src="https://i.imgur.com/fa0fNDm.jpg" height="50%" width="100%" alt="OS ticket configuration"/>
 <img src="https://i.imgur.com/yZtYUuG.png" height="50%" width="100%" alt="OS ticket configuration"/>
+<img src="https://i.imgur.com/b2wAX63.png" height="40%" width="70%" alt="OS ticket configuration"/>
