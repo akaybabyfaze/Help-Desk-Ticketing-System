@@ -25,5 +25,5 @@ Correct <b>File Permission</b> during installation is important to avoid configu
 <b>osTicket</b> roles administration, Users Access and SLAs creation.
 <img src="https://i.imgur.com/ap8RH2h.png" height="40%" width="70%" alt="OS Ticket Role creation"/>
 <img src="https://i.imgur.com/L5Jx5dQ.png" height="40%" width="70%" alt="OS Ticket Role creation"/>
-<b>osTicket creation, flow and ticket closure</b>.
+<h4><b>osTicket creation, flow and ticket closure</b></h4>
 <img src="https://i.imgur.com/ZdSLmRu.png" height="40%" width="70%" alt="OS Ticket open status"/>
